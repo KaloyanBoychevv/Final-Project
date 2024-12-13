@@ -1,0 +1,21 @@
+PROGRESS BOOK:
+
+Date: 2 December 2024
+What I’ve worked on:
+Started the project by exploring the dataset and setting up the foundational text mining process. Focused on data preprocessing and text analysis using SpaCy for lemmatization and POS tagging.
+What I learned:
+Understanding the importance of preprocessing steps such as lemmatization and POS tagging in analyzing text data and how these techniques can normalize variations in language.
+
+Date: 4 December 2024
+What I’ve worked on:
+Added Named Entity Recognition (NER) to identify key entities in the news articles. Integrated Entity Linking to focus on Geopolitical Entity analysis, specifically ranking and identifying frequently mentioned cities
+
+What I learned:
+How NER and Entity Linking can provide insights into key trends and entities while also highlighting geographical areas of focus. Learned how fine-tuning these methods improves contextual accuracy
+
+Date: 7 December 2024
+What I’ve worked on:
+Finalized the project by completing the remaining analysis and topic modeling using LDA. Applied visualization with word clouds to display insights. Organized and finalized all analysis code.
+
+What I learned:
+How LDA topic modeling uncovers underlying themes in large textual datasets and how visualization tools like word clouds make insights more intuitive.
